@@ -1,0 +1,216 @@
+  <main>
+    <div class="position-relative">
+      <!-- shape Hero -->
+      <section class="section section-md section-shaped pb-200">
+        <div class="shape shape-style-3 shape-default">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="container py-sm d-flex">
+          <div class="col px-0">
+            <div class="row">
+              <div class="col-lg-12 pt-md pb-md">
+                <h1 class="display-3 text-white">
+                  <div class="icon rounded-circle float-left">
+                    <i class="ni ni-planet"></i>
+                  </div>
+                  As melhores oportunidades de TI em Portugal</h1>
+                <p class="lead  text-white">O melhor lugar para encontrar oportunidades para quem desejar mudar para Portugal</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- SVG separator -->
+        <div class="separator separator-bottom separator-skew">
+          <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+            <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+          </svg>
+        </div>
+      </section>
+      <!-- 1st Hero Variation -->
+    </div>
+
+    <section class="section section-lg pt-lg-0 mt--200">
+      <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <ng-select class="form-control w-100 h-100"
+                    placeholder="Selecione as stacks que você trabalha..."
+                    [items]="tags"
+                    [(ngModel)]="selectedTags"
+                    [multiple]="true"
+                    [selectableGroup]="true"
+                    [closeOnSelect]="false"
+                    [clearSearchOnAdd]="true"
+                    (ngModelChange)="onChange($event)">
+                    <ng-template ng-option-tmp let-item="item" let-item$="item$" let-index="index">
+                        <input id="item-{{index}}" type="checkbox" [ngModel]="item$.selected"/> {{item}}
+                    </ng-template>
+                </ng-select>
+              </div>
+              <div [ngClass]="{'col-lg-2': searchingJobsByTag, 'col-lg-4': !searchingJobsByTag}">
+                <button class="btn btn-primary btn-lg w-100 h-100" (click)="searchJobsByTag()" [disabled]="!tagsSelected">BUSCAR</button>
+              </div>
+              <div class="col-lg-2" *ngIf="searchingJobsByTag">
+                <button class="btn btn-secondary btn-lg w-100 h-100" (click)="cancelSearchByTag()">CANCELAR</button>
+              </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-lg pt-lg-0 mt--50" style="z-index: 0">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-12">
+            <div class="row text-center" *ngIf="(!isFirstLoad && !isLoadingResults && jobs.length == 0)">
+              <div class="col-lg-12 py-lg-lg">
+                <p class="lead">Por enquanto, não temos vagas disponíveis.</p>
+              </div>
+            </div>
+            <div class="row row-grid" *ngIf="jobs && !isLoadingResults">
+              <div class="col-lg-4 py-2" *ngFor="let job of jobs">
+                <app-card-job [job]="job"></app-card-job>
+              </div>
+            </div>
+            <div class="row row-grid" *ngIf="jobs && !isLoadingResults && haveMore && isPagination">
+              <div class="col-lg-12">
+                <button class="btn btn-secondary btn-lg w-100 h-100" (click)="getMoreJobs()">CARREGAR MAIS VAGAS</button>
+              </div>
+            </div>
+            <div class="row row-grid text-center" *ngIf="(isFirstLoad || isLoadingResults)">
+              <app-placeholder-card class="col-lg-4"></app-placeholder-card>
+              <app-placeholder-card class="col-lg-4"></app-placeholder-card>
+              <app-placeholder-card class="col-lg-4"></app-placeholder-card>
+              <app-placeholder-card class="col-lg-4"></app-placeholder-card>
+              <app-placeholder-card class="col-lg-4"></app-placeholder-card>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-sm">
+      <div class="container">
+        <div class="row row-grid justify-content-center">
+          <div class="col-lg-8 text-center">
+            <h2 class="display-3">Nós amamos tecnologia <span class="text-success">e já estamos do lado de cá</span></h2>
+            <p class="lead">Vejam as tecnologias que estão comandando o mercado local</p>
+            <div class="text-center">
+              <div class="row justify-content-center">
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="React">
+                    <img alt="image" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Angular">
+                    <img alt="image" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="HTML">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/html5-42-1175210.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="CSS">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="NodeJS">
+                    <img alt="image" src="https://image.flaticon.com/icons/svg/919/919825.svg" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Java">
+                    <img alt="image" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="PHP">
+                    <img alt="image" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="MySQL">
+                    <img alt="image" src="https://cdn4.iconfinder.com/data/icons/logos-3/426/mysql-512.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="JavaScript">
+                    <img alt="image" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="C#">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dotnet-1175177.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Oracle">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/oracle-6-569556.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="IBM">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/ibm-282120.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="SAP">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/sap-5-569505.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="AWS">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Google Cloud">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/google-cloud-platform-2-569356.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Docker">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/docker-10-1175197.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Android">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/android-225-845325.png" class="img-fluid">
+                  </a>
+                </div>
+                <div class="col-lg-2 col-4">
+                  <a href="#" target="_blank" data-toggle="tooltip" data-original-title="Swift">
+                    <img alt="image" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png" class="img-fluid">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="footer has-cards">
+    <div class="container">
+      <div class="row row-grid align-items-center my-md">
+        <div class="col-lg-6">
+          <h3 class="text-primary font-weight-light mb-2">Obrigado por vir até aqui!</h3>
+        </div>
+        <div class="col-lg-6">
+          <div class="right">
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>

@@ -1,0 +1,835 @@
+{
+  "tags":[{"name":"PHP"},{"name":"administrador de sistemas"},{"name":"linux"},{"name":"backend"},{"name":"java"},{"name":"dba"},{"name":"oracle"},{"name":"ux"},{"name":"ui"},{"name":"frontend"},{"name":"javascript"},{"name":"cyber security"},{"name":"manager"},{"name":"cisa"},{"name":"cissp"},{"name":"cism"},{"name":"c#"},{"name":".net"},{"name":"csharp"},{"name":"html5"},{"name":"suporte"},{"name":"help-desk"},{"name":"c"},{"name":"consultoria gerenciamento"},{"name":"arquiteto"},{"name":"jee"},{"name":"jsf"},{"name":"outsystems"},{"name":"coimbra"},{"name":"mvc"},{"name":"lisboa"},{"name":"porto"},{"name":"viseu"},{"name":"bpm"},{"name":"uml"},{"name":"tecnologia da informação serviços "},{"name":"software"},{"name":"sap"},{"name":"pi"},{"name":"spring"},{"name":"react"},{"name":"rabbit"},{"name":"kafka"},{"name":"azure"},{"name":"microsoft"},{"name":"mcsd"},{"name":"vila real"},{"name":"tomar"},{"name":"cientista dados"},{"name":"gerente"},{"name":"data warehousing"},{"name":"engenharia"},{"name":"informação"},{"name":"aws"},{"name":"kubernetes"},{"name":"cloud"},{"name":"automação"},{"name":"teste"},{"name":"santarém"},{"name":"golang"},{"name":"kotlin"},{"name":"python"},{"name":"angular"},{"name":"vuejs"},{"name":"node.js"},{"name":"react native"}
+  ],
+    "jobs":[
+        {
+           "title":"Administrador de Sistemas Linux (m/f)",
+           "description":"Administrador de Sistemas Linux (m/f)   Data: 21-9-2019  Local:  Lisboa   administrador Linux (m/f) para integrar projetos em cliente, para Lisboa.Este pode ser o desafio perfeito para ti se tens: Formação Superior na área das tecnologias de informação; Experiência profissional superior a 2 anos na instalação, configuração e administração de sistemas Red Hat, Fedora, Ubuntu, etc; Experiência em linguagens de scripting; Experiência em realizar administração de ambientes virtuais;Participar neste projecto significa a integração numa empresa sólida em crescimento e num projecto num sector numa área estratégica e inovadora.",
+           "id":"2h2a7kuba",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1521745475?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-6597994322521515933%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=jmke&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Administrador de Sistemas",
+              "Linux",
+              "Lisboa"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Programador Java (m/f)",
+           "description":"Programador Java (m/f)    Data: 21-9-2019  Local:  Lisboa   Java Developers para integrar projetos em cliente, para Lisboa ou Porto.Este pode ser o desafio perfeito para ti se tens: Formação Superior na área das tecnologias de informação; Conhecimentos de programação orientada a objetos; Experiência até 2 anos com Java; Bons conhecimentos de Inglês (oral e escrito); Vontade de aprender e trabalhar com outras tecnologias; Disponibilidade para viagens. Responsabilidade, pró-atividade e desempenho dinâmico;Responde a este anúncio paraParticipar neste projecto significa a integração numa empresa sólida em crescimento e num projecto num sector numa área estratégica e inovadora.",
+           "id":"o87wu56xm",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1521744489?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-6471026802906188736%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=ziLS&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Java",
+              "Lisboa",
+              "Porto"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Consultor DBA Oracle (m/f)",
+           "description":"Consultor DBA Oracle (m/f)   Data: 21-9-2019  Local:  Lisboa   um Consultor DBA Oracle (m/f) (m/f) para integrar projetos em cliente, para Lisboa.Este pode ser o desafio perfeito para ti se tens: Formação Superior na área das tecnologias de informação; Experiência em instalar instâncias de base de dados Oracle single instance e em RAC.",
+           "id":"r7jqxiz19",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1521743679?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-6494584986271726487%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=Yfz5&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "DBA",
+              "Oracle",
+              "Lisboa",
+              "Porto"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Anúncio de emprego: UX/UI Designer (m/f)",
+           "description":"Anúncio de emprego: UX/UI Designer (m/f):Descrição Do Emprego Referência da oferta:   Referência da oferta: Tempo Inteiro Referência da oferta: 12-10-2019 Zona  LisboaReferência da oferta: Informática ( Programação )Referência Da Oferta :. Desenvolvemos soluções em diversas áreas desde Outsourcing, Infrastructure Services, Application Development & Maintenance.Estamos a reforçar a nossa equipa com um/a UX/UI com o seguinte perfil: Experiência profissional mínima de 2 anos em UI/UX na componente Web Fluência em InglêsReferência Da Oferta Formação contínua e envolvimento em projectos aliciantes e motivadores; Remuneração compatível com a experiência demonstrada.Se tens interesse em novos desafios podes enviar o teu CV atualizado para *** Candidatura Online ***Junta-te a nós! Vai ser INcrível",
+           "id":"rbfdu9mad",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1553978844?url=https%3A%2F%2Fwww%2Eempregos%2Eorg%2Fview%2Ephp%3Fjob_id%3D2561716%26type%3Dsearch%26auth_sess%3D9f65ee2425a6f4f3ddc665ce22de9eb6%26ref%3D41b49649b65171a08131f5956&urlHash=aBrH&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "UX",
+              "UI",
+              "Frontend",
+              "Javascript",
+              "Lisboa"
+           ],
+           "experience":"Não aplicável",
+           "time":"Tempo integral",
+           "segment":"Outro",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Recursos humanos"
+           ]
+        },
+        {
+           "title":"Oferta: Cyber Security Manager (m/f) - Lisboa",
+           "description":"Oferta: Cyber Security Manager (m/f) - Lisboa:Descrição Do Emprego Referência da oferta:   Referência da oferta: Tempo Inteiro Referência da oferta: 12-10-2019 Zona  LisboaReferência da oferta: Informática ( Programação )Referência Da OfertaEstamos a reforçar a nossa equipa com Cyber Security Manager para projeto Nearshore em cliente com o seguinte Perfil: Licenciatura em Informática ou áreas similares (preferencial); Mín. 6 anos de experiência em Gestão do Risco da Segurança da Informação; Certificação em CISA, CISSP ou CISM; Fluente em Inglês e disponibilidade para viajar.Referência Da Oferta Formação contínua e envolvimento em projetos aliciantes e motivadores; Remuneração compatível com a experiência demonstrada.Faça parte desta equipa INcrivel, Referência da oferta: *** Candidatura Online ***",
+           "id":"32sfd1fib",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1553978858?url=https%3A%2F%2Fwww%2Eempregos%2Eorg%2Fview%2Ephp%3Fjob_id%3D2561687%26type%3Dsearch%26auth_sess%3D9f65ee2425a6f4f3ddc665ce22de9eb6%26ref%3D8b0b96564cf11be0811d0904e&urlHash=UWyE&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Cyber Security",
+              "Manager",
+              "CISA",
+              "CISSP",
+              "CISM",
+              "Gerente",
+              "Segurança",
+              "Lisboa"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":"Outro",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Recursos humanos"
+           ]
+        },
+        {
+           "title":"Anúncio de emprego: Software Developer (m/f) Lisboa",
+           "description":"Anúncio de emprego: Software Developer (m/f) Lisboa:Descrição Do Emprego Referência da oferta:   Referência da oferta: Tempo Inteiro Referência da oferta: 1-10-2019 Zona  LisboaReferência da oferta: Informática ( Programação )Referência Da Oferta :. Desenvolvemos soluções em diversas áreas desde Outsourcing, Infrastructure Services, Application Development & Maintenance.Estamos a reforçar a nossa equipa com um/a Software Developers com o seguinte perfil: Licenciatura em Engenharia Informática ou similar; Experiência mínima de 2 anos; Conhecimentos sólidos de C#.Net, HTML5, Java, Javascript; CSS, SQL Server.Referência Da Oferta Formação contínua e envolvimento em projectos aliciantes e motivadores; Remuneração compatível com a experiência demonstrada.Envia o teu CV para *** Candidatura Online ***",
+           "id":"zcq17kvkm",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1535473327?url=https%3A%2F%2Fwww%2Eempregos%2Eorg%2Fview%2Ephp%3Fjob_id%3D2555253%26type%3Dsearch%26auth_sess%3D9f65ee2425a6f4f3ddc665ce22de9eb6%26ref%3D1367087fc0852fac907c4d457&urlHash=fqjg&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "C#.Net",
+              "HTML5",
+              "Java",
+              "Javascript",
+              "SQL Server",
+              "Lisboa"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Recursos humanos"
+           ]
+        },
+        {
+           "title":"Suporte Aplicacional",
+           "description":"Suporte Aplicacional    Data: 14-9-2019  Local:  LisboaPerfil de suporte aplicacional, report e gestão de incidentes com experiência no mínimo de 2 anos. Com conhecimentos técnicos de Word, Excel, e ferramentas help-desk de preferência com conhecimento de Banca e operações de Tesouraria. Idiomas: Português e Inglês falado e escritoEnviar CV para",
+           "id":"2hv5yighm",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1503501280?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F8410858819647261254%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=OEAb&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Suporte",
+              "help-desk",
+              "Lisboa"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer - Viseu",
+           "description":"Embedded Software Engineer - Viseu    Data: 5-10-2019  Local:  Viseu   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio para",
+           "id":"jfzrocc10",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533507781?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F1378520625653442815%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=fDl2&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Viseu, PT",
+           "tags":[
+              "Backend",
+              "C",
+              "C++",
+              "Viseu"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Arquiteto de Software - Java (Lisboa)",
+           "description":"Arquiteto de Software - Java (Lisboa)   Data: 7-9-2019  Local:  Lisboa   Arquiteto de Java com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação na área das TI; Mín. 5 anos de experiência em desenvolvimento com Java; Mín. 2 anos de experiência em gestão de equipas; Conhecimento JEE, JSF, JQUERY, Hibernate, SPRING; Bons conhecimentos de inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projeto significa a integração numa empresa sólida em crescimento e num projeto num sector numa área estratégica e inovadora. ",
+           "id":"74gklvdcd",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1438310365?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F3046532795789328453%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=_nlg&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Arquiteto",
+              "Backend",
+              "Lisboa",
+              "JEE",
+              "JSF",
+              "JQUERY",
+              "Hibernate",
+              "SPRING"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Outsystems Developer (M/F) - Porto",
+           "description":"   Outsystems Developer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para cliente no Porto.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; Mín. 1 ano de experiência no desenvolvimento com Outsystems; Bons conhecimentos de bases de dados; Bons conhecimentos de inglês.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado.",
+           "id":"8nhxmof17",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1560413922?url=https%3A%2F%2Fwww%2Ebuscojobs%2Ept%2Foutsystems-developer-m-f-porto-ID-2711991&urlHash=gAkS&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Porto, PT",
+           "tags":[
+              "Backend",
+              "Porto",
+              "Outsystems"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":".Net Developer (m/f): Lisboa",
+           "description":"Net Developer (m/f): Lisboa    Data: 7-9-2019  Local:  Lisboa   .Net Developer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação na área das TI; Experiência mínima de 1 ano em desenvolvimento .NET; Conhecimentos sólidos de C#.Net, MVC, BPM, UML; Bons conhecimentos de inglês.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projeto significa a integração numa empresa sólida em crescimento e num projeto num sector numa área estratégica e inovadora. ",
+           "id":"mz7aohm12",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1431965796?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F2290167235229867609%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=fnMb&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "C#.Net",
+              "MVC",
+              "BPM",
+              "UML",
+              "Lisboa"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Consultor Oracle SOA Suite (m/f)",
+           "description":"Consultor Oracle SOA Suite (m/f)   Data: 7-9-2019  Local:  Lisboa   Consultor de Oracle SOA Suite com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; Experiência mínima de 3 anos com Oracle SOA Suite; Experiência em Oracle BPEL; Experiência em projetos de Java; Bons conhecimentos de Inglês;Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projeto significa a integração numa empresa sólida em crescimento e num projeto num sector numa área estratégica e inovadora. ",
+           "id":"5d5uhtyvt",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1445334376?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-1199731483928182235%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=5POE&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "DBA",
+              "Oracle",
+              "Lisboa"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Outsystems Developer (M/F) - Lisboa",
+           "description":"   Outsystems Developer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para cliente no Porto.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; Mín. 1 ano de experiência no desenvolvimento com Outsystems; Bons conhecimentos de bases de dados; Bons conhecimentos de inglês.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado.",
+           "id":"l4pgk8lus",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1560418034?url=https%3A%2F%2Fwww%2Ebuscojobs%2Ept%2Foutsystems-developer-m-f-lisboa-ID-2711992&urlHash=ylkt&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "Outsystems"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Outsytems Developer (m/f) -Lisboa",
+           "description":"Outsytems Developer (m/f) -Lisboa    Data: 7-9-2019  Local:  Lisboa   Outsystems Developer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação na área das TI; Mín. 1 ano de experiência no desenvolvimento com Outsystems; Bons conhecimentos de bases de dados; Bons conhecimentos de inglês.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projeto significa a integração numa empresa sólida em crescimento e num projeto num sector numa área estratégica e inovadora. ",
+           "id":"kmof7yuy7",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1431964908?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-2436017558723582029%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=IEBH&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "Outsystems"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Consultor SAP PI - Lisboa",
+           "description":"Consultor SAP PI - Lisboa    Data: 7-9-2019  Local:  Lisboa   Consultor SAP PI com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação Superior na área das Tecnologias de Informação; Experiência mínima de 2 anos em projetos de integração com SAP PI; Autonomia, flexibilidade e orientação para os resultados; Fluente em inglês.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projeto significa a integração numa empresa sólida em crescimento e num projeto num sector numa área estratégica e inovadora. ",
+           "id":"4mjg9jby8",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1420036125?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F8560667185397818782%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=GR-6&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Lisboa",
+              "SAP",
+              "PI"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Programador Java",
+           "description":" stands out in the market for competence in providing services in Information Technology and the expertise of its highly skilled consultants.We are hiring Java DEveloper (M/F) to join our team, in a client in Lisboa:Skills + 5 years’ experience in Java development Knowledge in Spring MVC, Spring Data, Play, Hibernate, Node.js, Angular.js and React and Tools for Development Support (Confluence, JIRA, Git, Jenkins, Bamboo) - Fluent in English (written and spoken) ; Possibility and willingness to travel though EuropeWe OfferIntegration in a dynamic and innovative environment;Package wage adjusted with professional experience.If you are interested, please send your CV",
+           "id":"s6nhubcjl",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1560168852?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F7882763500143036538%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=02AH&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "java",
+              "Spring",
+              "React",
+              "Hibernate",
+              "Node.js",
+              "Angular"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Ousystems Developer (M/F) - Lisboa",
+           "description":"   Outsystems Developer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para cliente em Lisboa.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; Mín. 1 ano de experiência no desenvolvimento com Outsystems; Bons conhecimentos de bases de dados; Bons conhecimentos de inglês.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio para",
+           "id":"oonzueltv",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1560405180?url=https%3A%2F%2Fwww%2Ebuscojobs%2Ept%2Fousystems-developer-m-f-lisboa-ID-2707543&urlHash=t8Qe&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "Outsystems"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Senior Software Engineer .Net (M/F)",
+           "description":" is looking for a .NET Developer Sénior with Responsibilty for training, mentoring, and coaching peers and developers, strong communication skills and knowledge of Web technologies, software architecture principles, and design patterns.Key Responsibilities BS/MS degree in Computer Science, Engineering or equivalent with programming experience. At least 5 years of design and/or development experience with object-oriented languages in an n-tier architecture; Knowledgeable in Messaging/Streaming platform (Rabbit MQ, Kafka, Azure Service Bus); Know about Solutions Design Patterns and best practices, e.g. ESB; Proficient with Web Services, WCF, REST and Service Oriented Architecture; English mandatory.If you have the amazINg tech talent and want to join the team, reply to this announcement for",
+           "id":"6fvt0b6r0",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1544831406?url=https%3A%2F%2Fwww%2Ebuscojobs%2Ept%2Fsenior-software-engineer-net-m-f-ID-2680999&urlHash=gvzC&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Porto, PT",
+           "tags":[
+              "Backend",
+              "C#.Net",
+              "Rabbit",
+              "Kafka",
+              "Azure",
+              "Service Bus",
+              "Porto"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Oferta: Systems Administrator (m/f)",
+           "description":"Oferta: Systems Administrator (m/f):Descrição Do Emprego Referência da oferta:   Referência da oferta: Part-Time Referência da oferta: 26-9-2019 Zona  LisboaReferência da oferta: Informática ( Programação )Referência Da Oferta stands out in the market for competence in providing services in Information Technology and the expertise of its highly skilled consultants.We are hiring Systems Administrator (M/F) to join our team.SkillsDegree in Computer Science or equivalent;Experience with ADFS, SQL and AD RMS;Knowledge of PowerShell;Fluency in English;We OfferIntegration in a dynamic and innovative environment;Package wage adjusted with professional experience.If you are interested, please send your CV for *** Candidatura Online ***",
+           "id":"7qd71ckhl",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1524763557?url=https%3A%2F%2Fwww%2Eempregos%2Eorg%2Fview%2Ephp%3Fjob_id%3D2552322%26type%3Dsearch%26auth_sess%3D9f65ee2425a6f4f3ddc665ce22de9eb6%26ref%3D028cebff58ca282c2b2c5d03f&urlHash=b969&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Administrador de Sistemas",
+              "Lisboa"
+           ],
+           "experience":"Assistente",
+           "time":"Meio período",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Recrutamento e seleção",
+              "Recursos humanos"
+           ]
+        },
+        {
+           "title":"Gestor de Projeto Microsoft (m/f)",
+           "description":"Gestor de Projeto Microsoft (m/f)   Data: 21-9-2019  Local:  Lisboa  Está a Reforçar a Equipa Com Gestor De Projeto (M/F), Para Integrar Cliente Em Lisboa, Com o Seguinte Perfil Licenciatura em Engenharia Informática, Informática de Gestão (ou similiar); Experiência mínima de 5 anos em Gestão de Projetos; Experiência em gestão de projetos microsoft - Microsoft MCSD Applications Builder/Microsoft MCSD Business Aplications Conhecimentos da metedologia Agile e/ou Scrum; Domínio no Inglês (falado e escrito).",
+           "id":"10u2gr3ad",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1544584502?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F3902093693243191061%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=3rRr&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Gerente",
+              "Microsoft",
+              "Manager",
+              "MCSD",
+              "Lisboa"
+           ],
+           "experience":"Pleno-sênior",
+           "time":"Tempo integral",
+           "segment":[
+              "Gestão de projetos",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Outsystems Developer (m/f)",
+           "description":"Outsystems Developer (m/f)   Data: 21-9-2019  Local:  Lisboa   Outsystems Developer para integrar projetos em cliente, em Lisboa.Este pode ser o desafio perfeito para ti se tens: Formação na área das TI; Mín. 1 ano de experiência no desenvolvimento com Outsystems; Bons conhecimentos de bases de dados; Bons conhecimentos de inglês. Certificado Professional Web DeveloperSe tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado. ",
+           "id":"pkaqbutbu",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1521749020?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F5282773818800411162%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=JyTy&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "Outsystems"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Porto",
+           "description":"   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado.",
+           "id":"44byk44d3",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1555270722?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-5152229403828015111%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=KhzU&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Porto, PT",
+           "tags":[
+              "Backend",
+              "Porto",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Lisboa",
+           "description":"   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado.",
+           "id":"mu0f5zk33",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533510163?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-7754724103841126789%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=sVfE&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Vila Real",
+           "description":"   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado.",
+           "id":"ml9s7gjh5",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533507786?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F7330586137565627745%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=hiOB&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Vila Real, PT",
+           "tags":[
+              "Backend",
+              "Vila Real",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Tomar",
+           "description":"   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio com o teu CV atualizado.",
+           "id":"18lfle71y",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533510573?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-763937303184610780%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=WyrJ&refId=27927784-13ec-4e7a-ba8e-0714d9f9d0ec&trk=guest_job_details_apply_link_offsite",
+           "location":"Tomar, PT",
+           "tags":[
+              "Backend",
+              "Tomar",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Data Scientist (m/f)",
+           "description":"Um programador, um administrador de sistemas e um gestor de projeto entram num bar…Agora que despertámos a tua curiosidade, queremos a tua atenção.#Honestidade, #Compromisso, #Exigência e uma pitada de #Ambição são os ingredientes-chave para fazeres parte da colmeia.Coloca-se tudo num shaker et voilá: és a pessoa certa para abraçar os melhores projetos na área da tecnologia e, mais do que isso, o nosso maior projeto – a equipa da BEE.Identificas-te? Tens tudo isto? Então vem desfrutar connosco.Procuramos alguém que realmente seja apaixonado por desenvolvimento e com: Licenciatura em Engenharia Informática, Matemática ou similar Conhecimentos comprovados em Data Warehousing e Data Marts Experiência na implementação de ETL Experiência com SQL superior a 2 anos Conhecimentos com linguagens de scripting (Python e R) Conhecimentos em inglês fundamentais e francês é uma mais valiaPorquê escolher a Bee?Training Center- Certificações técnicas e formações em várias áreas ao longo de todo o ano;Bee with us - Uma empresa orientada para a excelência e em crescimento;Bee Yourself - Uma carreira profissional alinhada com o desempenho;Bee For Ever – asseguramos um plano de carreira e acompanhamento contínuo e personalizado ;“Work hard, bee yourself and have fun.”– Eventos, momentos de partilha e muito mais!Estamos à tua espera. Envia a tua candidatura para [email protected] indicando a refª BEE.DS.DBM1904030web:13.57.15.206:LinkedInBot/1.0 (compatible; Mozilla/5.0; +http://www.linkedin.com):2019-10-22 03:28:44",
+           "id":"jrdhnort3",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1563428702?url=https%3A%2F%2Fwww%2Eitjobs%2Ept%2Foferta%2F314994%2Fdata-scientist&urlHash=foWE&refId=d059c9ee-80c9-49bc-8a18-934c221dd3ee&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Administrador de Sistemas",
+              "Cientista de dados",
+              "Manager",
+              "Gerente",
+              "Data Warehousing",
+              "Data Marts",
+              "ETL",
+              "Python",
+              "R",
+              "Lisboa"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Internet"
+           ]
+        },
+        {
+           "title":"Linux System Administrador",
+           "description":"Linux System Administrador    Data: 21-9-2019  Local:  Lisboa   Linux System Administrador para integrar projetos em cliente na área de Lisboa.Este pode ser o desafio perfeito para ti se tens:Perfil de administrador de sistemas LINUX, que tenha conhecimento de implementação/configuração de infraestrutura em ambientes VMWareSe tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projecto significa a integração numa empresa sólida em crescimento e num projecto num sector numa área estratégica e inovadora.",
+           "id":"0m5z4997c",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1540089568?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F2084034339139935486%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=u6rz&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Administrador de Sistemas",
+              "Linux",
+              "Lisboa"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Outsystems Senior Developer",
+           "description":"Outsystems Senior Developer    Data: 11-9-2019  Local:  Lisboa   Outsystems Developer para integrar projetos em cliente na área de Lisboa.Este pode ser o desafio perfeito para ti se tens: Formação superior em Engenharia Informática ou equivalente; Experiência mínima de 5 anos em análise de especificações funcionais e técnicas, e implementação de Sistemas de Informação; Experiência mínima de 4 anos na plataforma Outsystems e conhecimentos aprofundados na plataforma; Experiência comprovada em desenvolvimentos de aplicações Web; Experiência no desenvolvimento de soluções Responsive Design; Conhecimento de HTML5, CSS3, técnicas de desenvolvimento AJAX; Conhecimento proficiente de JavaScript e JQuery ou outra qualquer JavaScript Library; Programador autónomo em MS .Net, mais concretamente em C#; Experiência em XML, XSLT, XSD e XQuery; Bons conhecimentos de TSQL (Microsoft SQL Server); Conhecimentos fluentes da língua inglesa; Experiência ou conhecimentos no desenvolvimento de aplicações nativas para IOS e/ou Android e também desenvolvimento em Outsystems Mobile;Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projecto significa a integração numa empresa sólida em crescimento e num projecto num sector numa área estratégica e inovadora.",
+           "id":"55rx2hsk2",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1540086525?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-4993255629323746001%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=ehyS&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "Outsystems"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Cloud System Administrator",
+           "description":"Cloud System Administrator    Data: 21-9-2019  Local:  Lisboa   Cloud System Administrator para integrar projetos em cliente na área de Lisboa.Este pode ser o desafio perfeito para ti se tens: Administração de sistemas LINUX Conhecimento de implementação/configuração de infraestrutura em ambientes AWS Experiencia comprovada mínima de 3 anos, setup de containers Kubernetes, uso de ferramentas de automatização Terraform/AnsibleSe tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projecto significa a integração numa empresa sólida em crescimento e num projecto num sector numa área estratégica e inovadora.",
+           "id":"pv46cuiic",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1539870302?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-3528536394174477996%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=zRig&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Administrador de Sistemas",
+              "Linux",
+              "AWS",
+              "Kubernetes",
+              "Cloud",
+              "Lisboa"
+           ],
+           "experience":"Assistente",
+           "time":"Tempo integral",
+           "segment":"Tecnologia da informação",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Automation Software Tester - Porto",
+           "description":"Automation Software Tester - Porto    Data: 7-9-2019  Local:  Porto   Automation Software Tester com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 2+ anos de experiência com teste de aplicações web e mobile; Experiência em automação com Selenium, Espresso, UI Automator, KIF ou XCTest; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio paraParticipar neste projeto significa a integração numa empresa sólida em crescimento e num projeto num sector numa área estratégica e inovadora. ",
+           "id":"lxylbj1gf",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1540088374?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F7108618093143369413%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=kzXt&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Porto, PT",
+           "tags":[
+              "Automação",
+              "Teste",
+              "Porto"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":"Controle de qualidade",
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Tomar",
+           "description":"Embedded Software Engineer (m/f) - Tomar    Data: 27-9-2019  Local:  Santarem   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio para",
+           "id":"17p7pejhl",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533512350?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F-2906769843649970309%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=tTAs&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Santarém, PT",
+           "tags":[
+              "Backend",
+              "Santarém",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Lisboa",
+           "description":"Embedded Software Engineer (m/f) - Lisboa    Data: 27-9-2019  Local:  Lisboa   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio para",
+           "id":"ln3n1ltpq",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533510166?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F8950123577238408221%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=1y7a&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Lisbon, PT",
+           "tags":[
+              "Backend",
+              "Lisboa",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Embedded Software Engineer (m/f) - Porto",
+           "description":"Embedded Software Engineer (m/f) - Porto    Data: 27-9-2019  Local:  Porto   Embedded Software Engineer com fortes habilidades de comunicação, capaz de analisar as necessidades da equipa, integrar informações e desenvolver soluções para um cliente internacional.Este pode ser o desafio perfeito para ti se tens: Formação superior em TI; 4+ anos de experiência no desenvolvimento de sistemas embebidos; Experiência com Ada, C ou C++; Fluência em Inglês; Disponibilidade para viajar.Se tens o amazINg tech talent pretendido e queres fazer parte da equip, responde a este anúncio para",
+           "id":"jnrms8z6a",
+           "permalink":"https://pt.linkedin.com/jobs/view/externalApply/1533507788?url=https%3A%2F%2Fpt%2Ejooble%2Eorg%2Fexternal%2F4787178557000388010%3Futm_campaign%3DPT%26utm_medium%3Dsocial%26utm_source%3Dlinkedin%26JobSource%3DBoard&urlHash=qJpQ&refId=6df3e89d-3498-400e-898a-b9f75341a774&trk=guest_job_details_apply_link_offsite",
+           "location":"Porto, PT",
+           "tags":[
+              "Backend",
+              "Porto",
+              "C",
+              "C++"
+           ],
+           "experience":"Iniciante",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Senior Software Engineer - Portugal",
+           "description":"<p>Uma empresa de TI Portuguesa, está à procura de talentosos engenheiros de software sêniores para ingressar no escritório em Portugal. Se você trabalha com modernas tech stacks (Golang, Kotlin,Python, PHP, Node.JS, etc.), não perca tempo e mande seu currículo.</p><p><br></p><p>É uma empresa em crescimento e a procura de excelentes profissionais para fazer parte do quadro de talentos. Ajudarão com o processo documental.</p><p><br></p><p><b>Quem procuramos:</b></p><p><br></p><p>Você é especialista em Csharp, PHP, Java ou Kotlin?</p><p>Você tem experiência com aplicativos da Web em larga escala?</p><p>Você é apaixonado por código bonito, orientado a testes, e procura simplicidade e pragmatismo?</p><p>Experiência com CI/CD, APIs RESTful, Cloud, bancos de dados relacionais e não relacionais?</p><p><br></p><p><b>Desejável:</b></p><p>Fala inglês fluentemente</p>",
+           "id":"jnems8z82z",
+           "permalink":"",
+           "location":"Lisboa, PT",
+           "tags":[
+              "Backend",
+              "Java",
+              "Golang",
+              "Kotlin",
+              "Python",
+              "PHP",
+              "Node.JS",
+              "Lisboa"
+           ],
+           "experience":"Senior",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        },
+        {
+           "title":"Senior Frontend Engineer - Portugal",
+           "description":"<p>Uma empresa de TI Portuguesa, está à procura de talentosos Senior Front End Engineers para ingressar no escritório em Portugal. Se você trabalha com tech stacks modernas (React, Angular, VueJS, Node.JS, etc.), não perca tempo e mande seu currículo. </p><p><br></p><p>É uma empresa em crescimento e a procura de excelentes profissionais para fazer parte do quadro de talentos. Ajudarão com o processo documental.</p><p><br></p><p><b>Quem procuramos:</b></p><br><p>Você é especialista em JavaScript (ES6)?</p><p>Você tem conhecimentos em HTML semântico e boas praticas em CSS (OOCSS,SMACSS e BEM)?</p><p>Você tem experiência com aplicativos da Web em larga escala?</p><p>Tem conhecimento ampliado na criação de aplicativos JS usando (React/Redux ou Angular), mas também com experiência na renderização no servidor?</p><p>Você tem experiência com gerenciamento de dependência e construção (npm/yarn)?</p><p>Você tem experiência anterior comprovada com processos Agile, como SCRUM, Kanban, para garantir a agilização do processo de desenvolvimento?</p><p>Você é apaixonado por código bonito, orientado a testes, e procura simplicidade e pragmatismo?</p><p>Experiência com CI/CD, APIs RESTful?</p><br><p><b>Desejável:</b></p><p>Fala inglês fluentemente</p>",
+           "id":"jn3ms8z82x",
+           "permalink":"",
+           "location":"Lisboa, PT",
+           "tags":[
+              "Frontend",
+              "React",
+              "Angular",
+              "VueJS",
+              "Node.js",
+              "Lisboa"
+           ],
+           "experience":"Senior",
+           "time":"Tempo integral",
+           "segment":[
+              "Engenharia",
+              "Tecnologia da informação"
+           ],
+           "sector":[
+              "Tecnologia da informação e serviços ",
+              "Software",
+              "Consultoria de gerenciamento"
+           ]
+        }
+     ]
+}

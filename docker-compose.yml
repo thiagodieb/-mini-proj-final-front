@@ -1,0 +1,19 @@
+version: "3.3"
+
+front:
+  front:
+    env_file:
+      - ./.env
+    image: node
+    command: /bin/bash -c 'npm i && npm i -g @angular/cli && ng serve --host 0.0.0.0 --port ${PORT} --proxy-config proxy.config.js'
+    working_dir: /opt/project/
+    volumes:
+      - ./app:/opt/project/
+      - '/app/node_modules'
+    networks:
+      - project-network
+
+networks:
+  project-network:
+   external:
+    name: network_backend
